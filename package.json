@@ -1,0 +1,27 @@
+{
+  "name": "postcss-flex-expand",
+  "version": "1.0.0",
+  "description": "Postcss plugin that expands flex to flex-grow,flex-shring,flex-basis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzq4047/postcss-flex-expland.git"
+  },
+  "keywords": [
+    "flex",
+    "flexibility"
+  ],
+  "author": "lzq4047",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzq4047/postcss-flex-expland/issues"
+  },
+  "homepage": "https://github.com/lzq4047/postcss-flex-expland#readme",
+  "dependencies": {
+    "postcss": "^7.0.32",
+    "postcss-value-parser": "^4.1.0"
+  }
+}
