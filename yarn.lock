@@ -40,11 +40,6 @@ has-flag@^3.0.0:
   resolved "http://139.159.243.23:10084/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
   integrity sha1-tdRU3CGZriJWmfNGfloH87lVuv0=
 
-postcss-value-parser@^4.1.0:
-  version "4.1.0"
-  resolved "http://139.159.243.23:10084/postcss-value-parser/-/postcss-value-parser-4.1.0.tgz#443f6a20ced6481a2bda4fa8532a6e55d789a2cb"
-  integrity sha1-RD9qIM7WSBor2k+oUypuVdeJoss=
-
 postcss@^7.0.32:
   version "7.0.32"
   resolved "http://139.159.243.23:10084/postcss/-/postcss-7.0.32.tgz#4310d6ee347053da3433db2be492883d62cec59d"
