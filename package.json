@@ -4,7 +4,7 @@
   "description": "Postcss plugin that expands flex to flex-grow,flex-shring,flex-basis.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "postcss ./test/src/**/*.css --dir ./test/out --config ./test/postcss.config.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,11 @@
   "homepage": "https://github.com/lzq4047/postcss-flex-expland#readme",
   "dependencies": {
     "postcss": "^7.0.32"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "postcss-cli": "^7.1.1"
   }
 }
